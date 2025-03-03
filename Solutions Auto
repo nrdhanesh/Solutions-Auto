@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solutions Auto Detailing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact, .hours {
+            margin-top: 20px;
+        }
+        .services {
+            text-align: left;
+            margin-top: 20px;
+        }
+        .service-item {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Solutions Auto</h1>
+        <h2>"Shine Like New, Every Time!"</h2>
+        <p>It's more than just maintaining your vehicle—our meticulous detailing services provide the deep satisfaction of knowing everything is just as it should be.</p>
+        
+        <div class="services">
+            <h2>Our Services</h2>
+            <div class="service-item">
+                <h3>Complete Detail (6-8 hours) - $405.00</h3>
+                <p>Includes clay, buff, wax, full interior cleaning, carpet shampoo, and more.</p>
+            </div>
+            <div class="service-item">
+                <h3>Full Exterior Detail (1.5-3 hours) - $180.00</h3>
+                <p>Includes clay, buff, wax, and exterior wash.</p>
+            </div>
+            <div class="service-item">
+                <h3>Full Interior Detail (4-6 hours) - $230.00</h3>
+                <p>Includes vacuuming, shampoo, leather conditioning, and window cleaning.</p>
+            </div>
+            <div class="service-item">
+                <h3>Specialty Washes - From $65.00</h3>
+                <p>Includes trailers, ATVs, motorcycles, boats, and snow machines.</p>
+            </div>
+            <div class="service-item">
+                <h3>Specialty Services - From $35.00</h3>
+                <p>Includes stain removal, pet hair removal, hand wash, rim detailing, and more.</p>
+            </div>
+        </div>
+        
+        <div class="hours">
+            <h2>Detailing Hours</h2>
+            <p>Monday to Friday: 8:30 AM - 5:00 PM</p>
+        </div>
+
+        <div class="contact">
+            <h2>Contact Us</h2>
+            <p><strong>Phone:</strong> 807-628-5918</p>
+            <p><strong>Email:</strong> <a href="mailto:solutionsauto@gmail.com">solutionsauto@gmail.com</a></p>
+            <p><strong>Location:</strong> 103 Gore Street West, Thunder Bay, P7E 3R3</p>
+        </div>
+    </div>
+</body>
+</html>
